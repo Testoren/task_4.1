@@ -5,7 +5,7 @@ git remote add [имя_удаленного_репозитория] [адрес]
 ### Например:
 
 ```
-[git remote add origin https://github.com/avsudnichnikov/example](https://github.com/Testoren/task_4.1.git)
+git remote add origin https://github.com/Testoren/task_4.1.git
 ```
 [Добавление репозитория на GITHUB](git_repository.md)
 
