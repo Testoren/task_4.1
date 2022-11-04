@@ -18,6 +18,8 @@ git init
 [Ссылка на источник](https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository/git-init)
 
 ---
-[Создание репозитория (инициализация)](./Creating%20a%20repository.md)
+[Создание репозитория (инициализация)](./Creating_a_repository.md)
+
+[Добавление репозитория на GITHUB](git_repository.md)
 
 [Перейти к содержанию](readme.md)

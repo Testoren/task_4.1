@@ -10,11 +10,16 @@ Licence: [Creative Commons Attribution 3.0 Unported License.](https://creativeco
 
 ---
 ## Содержание
-1. [Лицензии](license2.md)
-2. [Создание репозитория (инициализация)](Creating%20a%20repository.md)
-3. [Git init](git%20init.md)
+1. [Создание репозитория (инициализация)](Creating_a_repository.md)
+2. [Добавление репозитория на GITHUB](git_repository.md)
+3. [Git init](git_init.md)
 4. [Git add](add.md)
-5. [Git config](git%20config.md)
+5. [Git config](gi_config.md)
+6. [Git commit](git_commit.md)
+7. [Git branch](git_branch)
+8. [Git remote add](git_remote_add.md)
+9. [Git push](git_push.md)
+10. [Лицензии](license2.md)
 ---
 ## Лицензия
 

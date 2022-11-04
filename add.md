@@ -7,8 +7,9 @@
  ```md   
  git add[файл]
  ```
+[Создание репозитория (инициализация)](Creating_a_repository.md)
 
-[Создание репозитория (инициализация)](Creating%20a%20repository.md)
+[Добавление репозитория на GITHUB](git_repository.md)
 
 [Перейти к содержанию](readme.md)
 
